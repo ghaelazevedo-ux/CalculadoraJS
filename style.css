@@ -1,0 +1,78 @@
+#Fundo{
+  background-color:black;
+  width:400px;
+  height:600px;
+  margin:10px;
+}
+
+#VisorAntigo{
+  background-color:cyan;
+  width:330px;
+  height:40px;
+  position: relative;
+  left:35px;
+  top:20px;
+  border-radius: 15px 15px 0 0;
+  font-size: 20px;
+  text-align: right;
+}
+
+#VisorAtual{
+  background-color:lightblue;
+  width:330px;
+  height:60px;
+  position: relative;
+  left:35px;
+  top:20px;
+  border-radius: 0 0 15px 15px;
+  font-size: 40px;
+  text-align: right;
+}
+
+.Botao{
+ width:75px;
+ height:104px;
+ background-color:#454546;
+ margin:3px;
+ font-size:100px;
+ font-family:arial;
+ color:white;
+ text-align: center;
+ border-radius:3px;
+}
+
+.Botao:hover{
+background-color:#FF69B4;
+}
+
+#btnLimpa{
+  Background-color:red;
+}
+
+#Linha01{
+display:flex;
+position: relative;
+left:35px;
+top:50px;
+}
+
+#Linha02{
+display:flex;
+position: relative;
+left:35px;
+top:50px;
+}
+
+#Linha03{
+display:flex;
+position: relative;
+left:35px;
+top:50px;
+}
+
+#Linha04{
+display:flex;
+position: relative;
+left:35px;
+top:50px;
+}
